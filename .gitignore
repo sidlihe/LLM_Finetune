@@ -1,1 +1,8 @@
 .ssh/
+.LLama-2-7b-hf/
+LLama-2-7b-hf/
+__pycache__/
+opt-350m/
+venv/
+.env
+notebooks/opt350m_lora/
