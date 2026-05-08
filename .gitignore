@@ -6,3 +6,7 @@ opt-350m/
 venv/
 .env
 notebooks/opt350m_lora/
+models/
+notebooks/phi2-qlora/
+myvenv/
+venv310/
