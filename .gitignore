@@ -10,3 +10,4 @@ models/
 notebooks/phi2-qlora/
 myvenv/
 venv310/
+cpuvenv/
